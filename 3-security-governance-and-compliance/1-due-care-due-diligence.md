@@ -43,7 +43,7 @@ Includes:
 ---
 
 <p align="center">
-  <img src="assets/due care due diligence.png" alt="Due Care vs Due Diligence Lifecycle" width="500">
+  <img src="assets/due-care-due-diligence.png" alt="Due Care vs Due Diligence Lifecycle" width="800">
 </p>
 
 ---
