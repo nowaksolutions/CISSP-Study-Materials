@@ -89,8 +89,7 @@ Your objective is simple:
 
 ## ⚠️ Critical Distinction
 
-<p align="center"><strong>LAW = Legal Requirement  
-  
+LAW = Legal Requirement  
 PCI DSS = Contractual Obligation</strong></p>
 
 ---
