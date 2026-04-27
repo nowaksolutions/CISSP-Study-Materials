@@ -71,6 +71,12 @@ They define **what must be done, how it is enforced, and how it is executed**.
 
 ---
 
+<p align="center">
+  <img src="assets/security-compliance-artifacts.png" alt="Policy Hierarchy and Governance Flow" width="800">
+</p>
+
+---
+
 ## ⚠️ Critical Principle
 
 Each document serves a **distinct role in governance**:
