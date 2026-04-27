@@ -70,6 +70,10 @@ A **layered approach** ensures no single failure leads to compromise.
 
 <p align="center"><strong>Multiple Layers → Reduced Single Point of Failure</strong></p>
 
+<p align="center">
+  <img src="assets/def-in-dep.png" alt="Defense in Depth Layered Security Model" width="800">
+</p>
+
 ---
 
 ## ⚙️ Functional Control Types (What Does It Do?)
