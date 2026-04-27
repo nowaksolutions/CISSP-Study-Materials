@@ -41,10 +41,10 @@ Includes:
 👉 Think: **Prove and maintain protection over time**
 
 ---
-
 <p align="center">
-  <img src="assets/due-care-due-diligence.png" alt="Due Care vs Due Diligence Lifecycle" width="100%">
+  <img src="assets/due care due diligence.png" alt="Due Care vs Due Diligence Lifecycle" width="900">
 </p>
+
 
 ---
 
