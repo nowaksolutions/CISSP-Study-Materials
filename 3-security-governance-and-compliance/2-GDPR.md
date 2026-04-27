@@ -23,22 +23,15 @@ Determines the **purpose and means** of processing personal data.
 Processes data **on behalf of the controller**.  
 👉 Executes processing but does **not define purpose**
 
-<p align="center">
-  <img src="assets/GDPR.png" alt="GDPR Overview and Roles" width="800">
-</p>
-
 ---
 
 ### ⚠️ Core Data Subject Rights
 
 GDPR grants individuals (data subjects) control over their personal data:
 
-- **Right to Access** – View their personal data  
-- **Right to Rectification** – Correct inaccurate data  
-- **Right to Erasure (Right to be Forgotten)** – Request deletion  
-- **Right to Restrict Processing** – Limit how data is used  
-- **Right to Data Portability** – Transfer data between providers  
-- **Right to Object** – Refuse certain processing activities  
+<p align="center">
+  <img src="assets/GDPR.png" alt="GDPR Overview and Roles" width="800">
+</p>
 
 ---
 
