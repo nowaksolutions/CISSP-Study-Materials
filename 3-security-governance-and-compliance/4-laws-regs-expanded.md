@@ -112,10 +112,6 @@ CISSP questions will test:
 
 ---
 
-<p align="center"><strong>Data Type → Law → Control Expectation</strong></p>
-
----
-
 ## 🚨 Exam Trap
 
 - Treating **PCI DSS as a law**
