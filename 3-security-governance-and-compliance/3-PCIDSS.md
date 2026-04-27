@@ -40,12 +40,6 @@ The objective is to **protect cardholder data and reduce payment fraud** within 
 
 ---
 
-<p align="center">
-  <img src="assets/PCI-DSS.png" alt="PCI DSS Control Objectives and Requirements" width="800">
-</p>
-
----
-
 ### ⚠️ Critical Principle
 
 PCI DSS is **scope-specific and contractually enforced**.
