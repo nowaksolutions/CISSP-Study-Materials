@@ -4,34 +4,33 @@
 
 ### 📘 Concept
 
-The ISC2 Code of Ethics defines **four mandatory canons** that govern professional conduct for CISSPs. These are **enforceable standards**, not guidelines. Violations can result in **certification revocation**.
+The ISC2 Code of Ethics establishes **four mandatory, enforceable canons** that govern professional conduct for CISSPs. Violations can result in **certification revocation**.
 
-The acronym **PAPA** represents the four canons, which must be applied in **strict hierarchical order**:
+The acronym **PAPA** represents these canons, which must be applied in a **strict and absolute hierarchy**.
 
 ---
 
 ### 🧩 The Four Canons (Priority Order)
 
 **1. Protect Society, the Common Good, Public Trust, and Infrastructure**  
-This is the **highest priority**. You must place **public safety and societal well-being above all else**, including employer directives.
+This is the **highest priority**. You must place **public safety and societal well-being above all else**, even if instructed otherwise by management or clients.
 
 **2. Act Honorably, Honestly, Justly, Responsibly, and Legally**  
-You are required to **follow laws and ethical standards at all times**.  
-No illegal, deceptive, or unethical actions, even under pressure.
+Requires adherence to **legal and ethical standards at all times**, regardless of pressure or authority.
 
 **3. Provide Diligent and Competent Service to Principals**  
 Act in the best interest of your **employer or client**, but only within your **competence, due care, and ethical boundaries**.
 
 **4. Advance and Protect the Profession**  
-Support the profession through **continuous learning, ethical behavior, and maintaining credibility** in cybersecurity.
+Support the profession through **continuous development, ethical conduct, and maintaining credibility**.
 
 ---
 
 ### ⚠️ Critical Rule
 
-These canons are **hierarchical**.
+The canons are **strictly hierarchical and absolute**.
 
-Lower-priority canons **cannot override** higher-priority ones under any circumstances.
+Lower-priority canons **can never override** higher-priority ones under any circumstances.
 
 <p align="center"><strong>Society → Ethics/Law → Employer → Profession</strong></p>
 
@@ -39,9 +38,7 @@ Lower-priority canons **cannot override** higher-priority ones under any circums
 
 ### 🎯 Why This Matters (CISSP Context)
 
-This falls under **Security and Risk Management (Domain 1)**.
-
-This is not technical. This is **governance, ethics, and risk decision-making**.
+This falls under **Security and Risk Management (Domain 1)** and represents **ethical risk governance**, not technical implementation.
 
 Failure to follow these canons can lead to:
 
@@ -49,33 +46,31 @@ Failure to follow these canons can lead to:
 - Loss of CISSP certification  
 - Damage to organizational and public trust  
 
-You are expected to make decisions that align with **ethical obligations and legal requirements**, even when they conflict with business interests.
+CISSP scenarios will test your ability to **prioritize ethical and legal obligations over business or operational pressure**.
 
 ---
 
-### 🧠 CISSP Lens
+### 🧠 CISSP Decision Lens
 
-Approach every scenario like a **security leader**, not a technician:
+Always resolve decisions in this order:
 
-- Protect **society and public trust first**  
-- Ensure **legal and ethical compliance second**  
-- Consider **employer or client interests third**  
-- Support the **profession last**  
+1. Society and public trust  
+2. Legal and ethical obligations  
+3. Employer or client interests  
+4. The profession  
 
-Decisions are based on **risk and ethics**, not authority or convenience.
+Decisions are based on **risk, ethics, and responsibility**, not authority or convenience.
 
 ---
 
 ### 🚨 Exam Trap
 
-Choosing **employer interests** over **legal or societal obligations**.
+Following employer or client directives when they conflict with **law, ethics, or public safety**.
 
 ---
 
 ### ✅ Exam Takeaway
 
-**PAPA is always applied in order:**
+**PAPA = Society → Ethics/Law → Employer → Profession**
 
-**Society → Ethics/Law → Employer → Profession**
-
-If there is a conflict, **higher priority wins every time**.
+**Never break the order. Ever.**
