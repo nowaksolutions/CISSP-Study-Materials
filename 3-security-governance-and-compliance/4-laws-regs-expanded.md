@@ -112,19 +112,6 @@ CISSP questions will test:
 
 ---
 
-## 🧠 CISSP Decision Lens
-
-Use this mental model:
-
-Financial Data → GLBA
-Health Data (PHI) → HIPAA / HITECH
-Public Companies → SOX
-Consumer Protection → FTC Act
-Communications → ECPA
-Genetic Data → GINA
-Payment Cards → PCI DSS (NOT a law)
-
-
 <p align="center"><strong>Data Type → Law → Control Expectation</strong></p>
 
 ---
